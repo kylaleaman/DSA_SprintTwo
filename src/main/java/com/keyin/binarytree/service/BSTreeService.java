@@ -33,4 +33,3 @@ public class BSTreeService {
         return bstRepository.findAll();
     }
 }
-
